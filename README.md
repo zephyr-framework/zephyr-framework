@@ -1,7 +1,8 @@
 [![MasterHead](https://github.com/zephyr-framework/zephyr-framework/blob/main/assets/banner-rounded.png)](https://zephyr-one.com)
 
-<h1 align="center">Zephyr Framework</h1>
-<h3 align="center">Using the power of software design and engineering to simplify workflows and lives. </h3>
+![Plugin Icon](./assets/logo.png)
+<h1>Zephyr Framework</h1>
+<h3>Using the power of software design and engineering to simplify workflows and lives. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyr-framework&label=Profile%20views&color=0e75b6&style=flat" alt="zephyr-framework" /> </p>
 
