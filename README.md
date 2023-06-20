@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/zephyr-framework/zephyr-framework/blob/main/assets/banner-rounded.png)](https://zephyr-one.com)
 
-![Plugin Icon](./assets/logo.png)
+<img src="./assets/logo.png" width="100">
 <h1>Zephyr Framework</h1>
 <h3>Using the power of software design and engineering to simplify workflows and lives. </h3>
 
