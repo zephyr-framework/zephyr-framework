@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dropbox.com/s/gx4o0ky01xvh5ag/Banner%20Rounded.png?dl=0)](https://zephyr-one.com)
+[![MasterHead](https://github.com/zephyr-framework/zephyr-framework/blob/main/assets/banner-rounded.png)](https://zephyr-one.com)
 
 <h1 align="center">Zephyr Framework</h1>
 <h3 align="center">Using the power of software design and engineering to simplify workflows and lives. </h3>
