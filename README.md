@@ -7,11 +7,11 @@
 
 
 <div style="display: inline;">
-<a href="https://www.youtube.com/channel/@zephyrframework">
+<a href="https://www.youtube.com/@zephyrframework">
         <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
     </a>
     <a href="https://twitter.com/zephyrframework">
         <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
     </a>
-<img src="https://komarev.com/ghpvc/?username=zephyr-framework&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zephyr-framework" />
+    <img src="https://komarev.com/ghpvc/?username=zephyr-framework&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zephyr-framework" />
 </div>
