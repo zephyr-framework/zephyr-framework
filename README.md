@@ -3,7 +3,7 @@
 <img src="./assets/logo.png" width="100">
 <h1>Zephyr Framework</h1>
 <p>Using the power of software design and engineering to simplify workflows and lives. </p>
-<p>Creator of <a href="https://wordpress.org/plugins/zephyr-project-manager/">Zephyr Project Manager</a>, <a href="https://wordpress.org/plugins/zephyr-admin-theme/">Zephyr Admin Theme</a>, <a href="https://marketplace.visualstudio.com/items?itemName=deadrevolver.dark-space-theme">Dark Space</a> and more.</p>
+<p>Creator of <a href="https://wordpress.org/plugins/zephyr-project-manager/" target="_BLANK">Zephyr Project Manager</a>, <a href="https://wordpress.org/plugins/zephyr-admin-theme/" target="_BLANK">Zephyr Admin Theme</a>, <a href="https://marketplace.visualstudio.com/items?itemName=deadrevolver.dark-space-theme" target="_BLANK">Dark Space</a> and more.</p>
 
 
 <div style="display: inline;">
